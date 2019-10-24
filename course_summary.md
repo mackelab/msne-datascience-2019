@@ -28,6 +28,7 @@ Jupyter notebook: open it, creat a notebook, write code in cells, write markdown
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 - https://jupyter-notebook.readthedocs.io/en/stable/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd
 
 ### Exercises
 
