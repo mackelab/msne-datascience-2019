@@ -15,4 +15,4 @@ command in your terminal:
 
 Alternatively, you can start exploring this repository right here in your browser using [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cne-tum/msne-datascience-2019/master).
 
-If there is anything unclear please create an issue.
+If there is anything unclear please create an issue
