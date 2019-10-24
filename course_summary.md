@@ -57,7 +57,7 @@ Jupyter notebook: open it, creat a notebook, write code in cells, write markdown
 ### Resources 
 
 - https://github.com/cne-tum/msne-datascience-2019/blob/master/notebooks/block1/block1_session2_basic_python.ipynb
-- https://github.com/cne-tum/msne-datascience-2019/blob/master/notebooks/block1/block1_session2_programming_concepts.ipynb
+- https://github.com/cne-tum/msne-datascience-2019/blob/master/notebooks/block1/block1_session3_programming_concepts.ipynb
 - https://www.datacamp.com/courses/intro-to-python-for-data-science
 - https://www.datacamp.com/courses/intermediate-python-for-data-science
 - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
