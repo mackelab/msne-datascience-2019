@@ -29,8 +29,7 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 - https://jupyter-notebook.readthedocs.io/en/stable/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - [Howto install WSL on windows 10](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
-- [Howto install Anaconda into WSL](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd) Note: if you simply copy paste file and directory names from the blog post, you may encounter errors (e.g., because – is not the same as -). Better type the first letters of a path/filename yourself and use `Tab` to autocomplete. Note 2: In the step where it's about actually installing Anaconda, use `bash Anaconda3-2019.03-Linux-x86_64.sh`
-- `ln -s /mnt/c/Users/your_username ~/windows`
+- [Howto install Anaconda into WSL](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd) Note: if you simply copy paste file and directory names from the blog post, you may encounter errors (e.g., because – is not the same as -). Better type the first letters of a path/filename yourself and use `Tab` to autocomplete. Note 2: In the step where it's about actually installing Anaconda, use `bash Anaconda3-2019.03-Linux-x86_64.sh`. Note 3: You may find it convenient to set up a symbolic link to your windows home directory: `ln -s /mnt/c/Users/your_username ~/windows`
 
 
 ### Exercises
