@@ -28,8 +28,10 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 - https://jupyter-notebook.readthedocs.io/en/stable/
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd
-- https://jeremyskinner.co.uk/2018/07/27/sharing-home-directory-between-windows-and-wsl/
+- [Howto install WSL on windows 10](https://docs.microsoft.com/de-de/windows/wsl/install-win10)
+- [Howto install Anaconda into WSL](https://towardsdatascience.com/setting-up-a-data-science-environment-using-windows-subsystem-for-linux-wsl-c4b390803dd)
+- `ln -s /mnt/c/Users/your_username ~/windows`
+
 
 ### Exercises
 
