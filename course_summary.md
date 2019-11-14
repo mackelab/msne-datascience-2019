@@ -179,7 +179,6 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 
 - We will closely follow this tutorial: https://github.com/jakevdp/sklearn_tutorial
 - Corresponding lecture: https://www.youtube.com/watch?v=L7R4HUQ-eQ0
-
 - https://scikit-learn.org/stable/
 - https://www.datacamp.com/search?q=scikit&tab=courses
 
