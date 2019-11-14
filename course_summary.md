@@ -145,3 +145,82 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 
 - https://github.com/cne-tum/msne-datascience-2019/blob/master/notebooks/block1/block1_session4_numpyexercises.ipynb
 - Section 4 (NumPy) of the datacamp Introduction to Python course
+
+
+# Block 2
+
+## scikit learn
+
+### Goals
+
+1) Learn to apply different machine learning techniques to analyze data
+2) Introduce basic principles like supervised/unsupervised learning, overfitting, hyperparameters, cross validation
+3) Understand the scikit learn syntax and pipeline
+
+### Content
+
+- Basic principles of machine learning:
+    - Data layout
+    - Choosing an algorithm
+    - Evaluation
+    - Cross validation
+- Supervised learning
+    - Classification
+    - Regression
+    - Measuring performance
+    - Support Vector Machines
+    - Decision Trees
+ - Unsupervised learning
+    - Clustering (K-means)
+    - Dimensionality reduction (PCA)
+    - Density estimation (Gaussian Mixture Model)
+
+### Resources
+
+- We will closely follow this tutorial: https://github.com/jakevdp/sklearn_tutorial
+- Corresponding lecture: https://www.youtube.com/watch?v=L7R4HUQ-eQ0
+
+- https://scikit-learn.org/stable/
+- https://www.datacamp.com/search?q=scikit&tab=courses
+
+### Exercises
+
+- https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
+
+## Pytorch
+
+### Goals
+
+1) What is pytorch and why is it useful
+2) Build an artificial neural network step by step
+
+### Content
+
+- Basic principles of machine learning:
+    - Data layout
+    - Choosing an algorithm
+    - Evaluation
+    - Cross validation
+- Supervised learning
+    - Classification
+    - Regression
+    - Measuring performance
+    - Support Vector Machines
+    - Decision Trees
+ - Unsupervised learning
+    - Clustering (K-means)
+    - Dimensionality reduction (PCA)
+    - Density estimation 
+
+### Resources
+
+- We will follow the datacamp course: https://www.datacamp.com/courses/deep-learning-with-pytorch
+- Intro lecture: https://www.youtube.com/watch?v=KoyUYUcEyT8
+- https://pytorch.org/tutorials/ The pytorch tutorial site has great recources on a wide range of topics (GANs, RNN,Reinforcement learning etc....)
+- https://github.com/udacity/deep-learning-v2-pytorch Exercises in notebook form covering a wide range of topics.
+
+### Exercises
+
+- https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb
+
+
