@@ -196,21 +196,14 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 
 ### Content
 
-- Basic principles of machine learning:
-    - Data layout
-    - Choosing an algorithm
-    - Evaluation
-    - Cross validation
-- Supervised learning
-    - Classification
-    - Regression
-    - Measuring performance
-    - Support Vector Machines
-    - Decision Trees
- - Unsupervised learning
-    - Clustering (K-means)
-    - Dimensionality reduction (PCA)
-    - Density estimation 
+- Pytorch compared to numpy
+- Forward propagation
+- Backpropagation
+- Building a neural network in pytorch
+- Activation functions
+- Loss functions
+- Classification with NNs
+- Convolutional neural networks
 
 ### Resources
 
