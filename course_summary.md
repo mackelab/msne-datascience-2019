@@ -216,3 +216,53 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
 - https://github.com/udacity/deep-learning-v2-pytorch/blob/master/convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb
 
 
+# Block 3
+
+## Project work starts
+
+### Coding Environments
+ - Differences IDEs and editors
+ - Give an overview what editors and IDEs they could use
+    - in particular PyCharm, Jupyter Lab and Jupyter Notebook. 
+    - other environments: Atom, VIM, Spyder, Python-IDLE, Emacs
+ - Choosing an environment for this project and setting everything up (e.g. conda environment in PyCharm)
+ 
+### Conda Environments
+ - What is a Conda environment
+ - Some background why we need them and why they are useful
+ - Setting up new environment for the project
+ - Fundamental conda commands
+    - conda create -n myenv
+    - conde env list
+    - conda activate myenv
+    - conda deactivate myenv
+    - conda install PKGNAME==3.4.1
+    - conda list --explicit > pkgs.txt
+ 
+### Introducing and coosing porjects
+- https://github.com/cne-tum/msne-datascience-2019/tree/master/projects
+
+### Overview of coding languages
+ - advantages and disadvantages of commonly used coding languages
+ - differences between languages (purpose, compiled, ...)
+    - in particular: Java, Python, C, C++, SQL, PHP
+ 
+### For Loops
+ - https://www.dataquest.io/blog/tutorial-advanced-for-loops-python-pandas/
+
+
+### Coding Conventions
+ - Python specific coding and naming conventions for clean code
+ - naming of variables, classes, functions
+ - design patterns: KISS, DRY
+ - reusability of code
+ - documentation of code
+ 
+### Object Oriented Programming
+ - classes, objects, inheritance
+ - class attributes vs. instance attributes
+ - python implementation of a class
+ - https://realpython.com/python3-object-oriented-programming/
+ - data camp tutorial on OOP
+ 
+ 
