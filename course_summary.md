@@ -265,4 +265,7 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
  - https://realpython.com/python3-object-oriented-programming/
  - data camp tutorial on OOP
  
+ ### Jupyter server
+ - https://bhrigu.cne.ei.tum.de/hub/login
+ 
  
