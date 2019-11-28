@@ -266,6 +266,7 @@ Jupyter notebook: open it, create a notebook, write code in cells, write markdow
  - data camp tutorial on OOP
  
  ### Jupyter server
+ - https://www.lrz.de/services/netz/mobil/vpn/anyconnect/
  - https://bhrigu.cne.ei.tum.de/hub/login
  
  
